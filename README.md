@@ -75,9 +75,16 @@ The dataset represents fictional **retail sales transactions** across different 
 
 ---
 
-## ⚙️ Installation & Usage Guide
-Follow these simple steps to explore the dashboard:
+## 📸  Screenshots / Demos
+ show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/snap.png)
 
-1. **Clone the repository:**
+ Example: ![Dashboard Preview](https://github.com/mdsajidhussain0786/Excel-Sales-Dashboard/blob/main/snap.png)
+ 
+
+## 🚀 Getting Started  
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
+   git clone <https://github.com/mdsajidhussain0786/Excel-Sales-Dashboard.git>
+
+---
+*I am actively seeking feedback on data modeling and visualization best practices. Feel free to connect!*
