@@ -76,7 +76,7 @@ The dataset represents fictional **retail sales transactions** across different 
 ---
 
 ## 📸  Screenshots / Demos
- show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/snap.png)
+ show what the dashboard looks like. - 
 
  Example: ![Dashboard Preview](https://github.com/mdsajidhussain0786/Excel-Sales-Dashboard/blob/main/snap.png)
  
