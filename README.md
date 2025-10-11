@@ -87,4 +87,21 @@ The dataset represents fictional **retail sales transactions** across different 
    git clone <https://github.com/mdsajidhussain0786/Excel-Sales-Dashboard.git>
 
 ---
-*I am actively seeking feedback on data modeling and visualization best practices. Feel free to connect!*
+
+---
+
+## 👨‍💻 Author  
+**Md Sajid Hussain**  
+🎓 BCA Student | 💼 Aspiring Data Analyst  
+🧠 Skills: Power BI | Excel | SQL | Python | Data Visualization  
+📧 *[hussainms244@gmail.com]*  
+
+---
+
+## 🌐 Connect with Me  
+[🔗 LinkedIn](https://www.linkedin.com/in/sajid-hussain2006/) • [💻 GitHub](https://github.com/mdsajidhussain0786) • [📫 Email](mailto:hussainms244@gmail.com)
+
+---
+
+⭐ **If you like this project, show your support by giving it a star!** Together, let’s make data speak. 💜📊
+
